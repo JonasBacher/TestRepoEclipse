@@ -4,7 +4,7 @@ import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-
+ // Hallo Patrick
 import server.FileSender;
 
 public class MyDocument extends MyFile{
@@ -29,7 +29,7 @@ public class MyDocument extends MyFile{
 	/**
 	 * 
 	 * @param file
-	 * @return Gibt die Bytes der übergebenen Datei 'file' als Byte-Array zurück.
+	 * @return Gibt die Bytes der Ã¼bergebenen Datei 'file' als Byte-Array zurÃ¼ck.
 	 * @throws IOException 
 	 */
 	private byte[] getByteArr(File file) throws IOException {
